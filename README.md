@@ -9,7 +9,7 @@
 ## 技术栈
 
 - 前端：Vue 3、TypeScript、Vite、Element Plus
-- 后端：Java 21、Spring Boot 3、Spring Data JPA、Maven
+- 后端：Java 21、Spring Boot 4.1.1、Spring Data JPA、Maven
 - 数据库：MySQL 8
 - 版本管理：Git、GitHub
 
@@ -28,7 +28,6 @@ campus-job-hub/
 
 - [x] 确定 MVP 范围与技术栈
 - [x] 建立项目骨架与开发规范
-- [ ] 初始化 Spring Boot 后端
+- [x] 初始化 Spring Boot 后端
 - [ ] 初始化 Vue 3 前端
 - [ ] 设计数据库与接口
-
