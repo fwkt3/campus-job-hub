@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA / WebStorm
+.idea/
+*.iml
+
+# Java / Maven
+backend/target/
+*.class
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+backend/src/main/resources/application-local.yml
+backend/src/main/resources/application-local.properties
+
+# Logs
+*.log
+logs/
+
